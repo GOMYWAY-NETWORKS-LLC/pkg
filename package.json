@@ -27,7 +27,7 @@
     "minimist": "^1.2.5",
     "multistream": "^4.1.0",
     "pkg-fetch": "3.1.1",
-    "prebuild-install": "6.0.1",
+    "prebuild-install": "6.1.4",
     "progress": "^2.0.3",
     "resolve": "^1.20.0",
     "stream-meter": "^1.0.4",
