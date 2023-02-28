@@ -17,8 +17,8 @@
     "singleQuote": true
   },
   "dependencies": {
-    "@babel/parser": "7.13.13",
-    "@babel/types": "7.13.12",
+    "@babel/parser": "7.20.15",
+    "@babel/types": "7.20.7",
     "chalk": "^4.1.0",
     "escodegen": "^2.0.0",
     "fs-extra": "^9.1.0",
